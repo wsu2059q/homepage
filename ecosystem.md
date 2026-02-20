@@ -39,6 +39,7 @@
 ### OneBot SDK
 
 - 【Rust】[onebot-walle/Walle](https://github.com/onebot-walle/Walle)
+- 【MoonBit】[biyuehu/moonbot](https://github.com/BIYUEHU/moonbot)
 - 【Python】[nonebot/nonebot2](https://github.com/nonebot/nonebot2)
 - 【Python】[OlivOS-Team/OlivOS](https://github.com/OlivOS-Team/OlivOS)
 - 【Python】[AliceBotProject/alicebot](https://github.com/AliceBotProject/alicebot)
@@ -114,6 +115,7 @@
 - 【Java / Kotlin】[JuerGenie/juerobot](https://github.com/JuerGenie/juerobot)
 - 【Java / Kotlin】[MrXiaoM/Overflow](https://github.com/MrXiaoM/Overflow)
 - 【Kotlin(KMP)】[RTAkland/ROneBot](https://github.com/RTAkland/ROneBot)
+- 【MoonBit】[biyuehu/moonbot](https://github.com/BIYUEHU/moonbot)
 - 【C++】[super1207/MiraiCQ](https://github.com/super1207/MiraiCQ)
 - 【Java / Kotlin(KMP)】[simbot-component-onebot](https://github.com/Simple-robot/simbot-component-onebot/)
 - 【Rust】[ThriceCola/Kovi](https://github.com/ThriceCola/Kovi)
