@@ -89,6 +89,7 @@
 - 【Python】[Meloland/melobot](https://github.com/Meloland/melobot)
 - 【Python】[MuRainBot/MuRainBot2](https://github.com/MuRainBot/MuRainBot2)
 - 【Python】[avilliai/eridanus-dep](https://github.com/avilliai/eridanus-dep)
+- 【Python】[ErisPulse/ErisPulse](https://github.com/ErisPulse/ErisPulse)
 - 【Node】[koishijs/koishi](https://github.com/koishijs/koishi)
 - 【Node】[Circkoooooo/cqhttp-ts](https://github.com/Circkoooooo/cqhttp-ts)
 - 【Node】[kotorijs/kotori](https://github.com/kotorijs/kotori)
