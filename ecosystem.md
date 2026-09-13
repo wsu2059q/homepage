@@ -44,6 +44,7 @@
 - 【Python】[OlivOS-Team/OlivOS](https://github.com/OlivOS-Team/OlivOS)
 - 【Python】[AliceBotProject/alicebot](https://github.com/AliceBotProject/alicebot)
 - 【Python】[PigBotFramework/next](https://github.com/PigBotFramework/next)
+- 【Python】[ErisPulse/ErisPulse](https://github.com/ErisPulse/ErisPulse)
 - 【C#】[theGravityLab/Onebot.Net](https://github.com/theGravityLab/Onebot.Net)
 - 【Ruby】[fantasyzhjk/onebot-ruby](https://github.com/fantasyzhjk/onebot-ruby)
 - 【PHP】[zhamao-robot/zhamao-framework](https://github.com/zhamao-robot/zhamao-framework)
